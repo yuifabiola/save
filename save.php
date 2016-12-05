@@ -29,7 +29,7 @@ if($_POST){
 
                               
                     }
-                     sleep(2);
+                     
                      echo 3;
 
 
